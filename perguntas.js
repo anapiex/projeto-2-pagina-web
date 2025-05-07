@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Português',
+    'O que é um verbo?',
+    'Classes de palavras que contém uma ação'
 )
 
 criaCartao(
@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Biologia',
+    'Qual a função do cloropasto?',
+    'realizar a fotossíntese'
 )
 
 criaCartao(
     'Lingua inglesa',
     'Como se diz tchau em Inglês?',
-    'Oi em ingles é bye'
+    'Tchau em ingles é bye'
 )
