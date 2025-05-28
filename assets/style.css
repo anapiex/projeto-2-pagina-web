@@ -41,7 +41,7 @@ body {
     position: absolute;
     margin: 0.6rem;
     border-radius: 0.6rem;
-    font-size: 1vw;
+    font-size: 2vw;
     backface-visibility: hidden;
 }
 
@@ -82,8 +82,8 @@ body {
 }
 
 footer {
-    background-color: rgb(221, 197, 197);
-    color: rgb(227, 158, 240);
+    background-color: lch(51.04% 66.88 30.08);
+    color: rgb(255, 255, 255);
     position: fixed;
     bottom: 0;
     width: 100%;
